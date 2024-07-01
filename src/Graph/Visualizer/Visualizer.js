@@ -283,7 +283,7 @@ export default class Visualizer extends Component {
             </Button>
           </div>
           <div className="info">
-            <h3>
+            <h3 className="text-white">
               Source Node - <Image src={red} roundedCircle width="25" height="25" />{' '}
               Destination Node - <Image src={green} roundedCircle width="25" height="25" />{' '}
               Path from source to destination - <Image src={yellow} roundedCircle width="25" height="25" />{' '}
