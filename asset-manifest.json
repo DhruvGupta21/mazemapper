@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mazemapper/static/css/main.291ecd78.chunk.css",
+    "main.js": "/mazemapper/static/js/main.e0e9c5ef.chunk.js",
+    "main.js.map": "/mazemapper/static/js/main.e0e9c5ef.chunk.js.map",
+    "runtime-main.js": "/mazemapper/static/js/runtime-main.fe484e70.js",
+    "runtime-main.js.map": "/mazemapper/static/js/runtime-main.fe484e70.js.map",
+    "static/js/2.d3b5e5af.chunk.js": "/mazemapper/static/js/2.d3b5e5af.chunk.js",
+    "static/js/2.d3b5e5af.chunk.js.map": "/mazemapper/static/js/2.d3b5e5af.chunk.js.map",
+    "index.html": "/mazemapper/index.html",
+    "precache-manifest.2ca7d1e47768e6d2bad9cced525a4e5a.js": "/mazemapper/precache-manifest.2ca7d1e47768e6d2bad9cced525a4e5a.js",
+    "service-worker.js": "/mazemapper/service-worker.js",
+    "static/css/main.291ecd78.chunk.css.map": "/mazemapper/static/css/main.291ecd78.chunk.css.map",
+    "static/js/2.d3b5e5af.chunk.js.LICENSE.txt": "/mazemapper/static/js/2.d3b5e5af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe484e70.js",
+    "static/js/2.d3b5e5af.chunk.js",
+    "static/css/main.291ecd78.chunk.css",
+    "static/js/main.e0e9c5ef.chunk.js"
+  ]
+}
